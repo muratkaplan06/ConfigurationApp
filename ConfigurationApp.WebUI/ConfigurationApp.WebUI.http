@@ -1,0 +1,6 @@
+@ConfigurationApp.WebUI_HostAddress = http://localhost:5208
+
+GET {{ConfigurationApp.WebUI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
